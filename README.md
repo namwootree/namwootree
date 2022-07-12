@@ -31,7 +31,7 @@
 
 # Works
 
-Project  | Date | execution organization | Skill | Link
+Project  | Date | Execution Organization | Skill | Link
 ---------------------------|------|-------|-----------------|---------------------|
 Poly Encoder Chatbot | 2022.07 | Alphaco | Poly Encoder | [Retrieval-Based-Chatbot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Retrieval-Based-Chatbot-main)
 Text Summarization | 2022.06 | Alphaco | Modeling, Data Augmentation | [Text_Summarization](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Summarization)
