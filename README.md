@@ -8,8 +8,8 @@
   * DSAC (Data Scientist Academy & Certificate) 수료
   * 알파코 딥러닝 개발자 양성 캠프 2기
 * Skill
-  * Python
-  * TensorfloW / Pytorch  
+  1. Computer engineering Language : Python
+  2. Framework : Tensorflow / Pytorch  
 
 
 
