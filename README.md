@@ -1,6 +1,6 @@
 # Profile
-name : 권남우
-Level of Education : 
+* name : 권남우
+* Level of Education : 울산대학교 / 글로벌경영학과 
 
 # Works
 
