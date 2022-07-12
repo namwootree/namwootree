@@ -21,6 +21,8 @@
   * NLP (Natural Language Processing)
     * Text Summarization
     * Chatbot
+    
+  * Data Analysis
 
 * **Baekjoon Algorithm**
 
