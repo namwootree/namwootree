@@ -1,3 +1,4 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=150&section=header&text=Namwoo%20Github&fontSize=90)
 
 # Profile
