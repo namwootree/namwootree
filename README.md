@@ -15,7 +15,12 @@
   
 * **Skill**
   * Computer engineering Language : Python
-  * Framework : Tensorflow / Pytorch  
+  * Framework : Tensorflow / Pytorch
+
+* **Interest**
+  * NLP (Natural Language Processing)
+    * Text Summarization
+    * Chatbot
 
 * **Baekjoon Algorithm**
 
