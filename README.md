@@ -17,7 +17,7 @@
 
 * Baekjoon Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namwootree)](https://solved.ac/yoon828990)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namwootree)](https://solved.ac/namwootree)<br/>
 
 
 
