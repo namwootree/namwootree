@@ -1,7 +1,7 @@
 # Work
 
 Project  | Date | execution organization | Skill | Link
--------------------|------|-------|----------|---------------------|
+---------------------------|------|-------|-----------------|---------------------|
 Text Classification | 2022.06 | Alphaco | Ensemble, Data Augmentation | [Text_Classification](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Classification)
 Chatbot | 2022.06 | Alphaco | Transformer, BERT | [Chat_Bot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Chat_Bot)
 Pneumonia Detection | 2022.05 | Alphaco | YOLO V3 | [Pneumonia_Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Pneumonia_Detection)
