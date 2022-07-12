@@ -1,5 +1,5 @@
 # Profile
-* name : 권남우
+* Name : 권남우
 
 * E-mail : namwootree4work@naver.com
 
