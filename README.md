@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=300&section=header&text=Namwoo%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=150&section=header&text=Namwoo%20Github&fontSize=90)
 
 # Profile
 * **Name** : 권남우
