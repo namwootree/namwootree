@@ -9,7 +9,7 @@
   
 * Experiences
   * DSAC (Data Scientist Academy & Certificate) 수료
-  * 알파코 딥러닝 roqkf 부트 캠프 2기 (반장 역임)
+  * 알파코 딥러닝 roqkf 부트 캠프 2기 (반장)
   
 * Skill
   1. Computer engineering Language : Python
