@@ -1,23 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=300&section=header&text=Namwoo%20Github&fontSize=90)
 
 # Profile
-* Name : 권남우
+* **Name** : 권남우
 
-* E-mail : namwootree4work@naver.com
+* **E-mail** : namwootree4work@naver.com
 
-* Level of Education : 울산대학교 
+* **Level of Education** : 울산대학교 
   * 글로벌경영학과 졸업 (4.07/4.5)
   * 마이크로특화전공 이수 : 공공·복지경영기초
   
-* Experiences
+* **Experiences**
   * DSAC (Data Scientist Academy & Certificate) 수료
   * 알파코 딥러닝 개발 부트 캠프 2기 (반장)
   
-* Skill
+* **Skill**
   1. Computer engineering Language : Python
   2. Framework : Tensorflow / Pytorch  
 
-* Baekjoon Algorithm
+* **Baekjoon Algorithm**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namwootree)](https://solved.ac/namwootree)<br/>
 
