@@ -1,5 +1,6 @@
 # Profile
 * name : 권남우
+* E-mail : namwootree4work@naver.com
 * Level of Education : 울산대학교 
   * 글로벌경영학과 졸업 (4.07/4.5)
   * 마이크로특화전공 이수 : 공공·복지경영기초
