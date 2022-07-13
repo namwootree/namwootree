@@ -9,9 +9,16 @@
   * 글로벌경영학과 졸업 (4.07/4.5)
   * 마이크로특화전공 이수 : 공공·복지경영기초
   
+* **Award**
+  * [(재)울산발전연구원] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11)
+
+  
 * **Experiences**
+  * [체험형 인턴] 한국석유공사 기획예산처 (2020.06.29 4주)
   * DSAC (Data Scientist Academy & Certificate) 수료
   * 알파코 딥러닝 개발 부트 캠프 2기 (반장)
+  
+  *
   
 * **Skill**
   * Programming Language : Python / HTML / CSS
