@@ -23,6 +23,9 @@
     * Chatbot
     
   * Data Analysis
+    * Finance
+    * Time Series
+ 
 
 * **Baekjoon Algorithm**
 
