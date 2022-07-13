@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=170&section=header&text=Namwoo%20Github&fontSize=100&fontAlignY=40&desc=NLP%20Engineer%20&%20 Financial Data Scientist%20(Beginner)&descSize=30&descAlignY=78)
+![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=170&section=header&text=Namwoo%20Github&fontSize=100&fontAlignY=40&desc=NLP%20Engineer%20/%20Financial%20Data%20Scientist&descSize=30&descAlignY=78)
 
 # Profile
 * **Name** : 권남우
