@@ -18,8 +18,6 @@
   * DSAC (Data Scientist Academy & Certificate) 수료
   * 알파코 딥러닝 개발 부트 캠프 2기 (반장)
   
-  *
-  
 * **Skill**
   * Programming Language : Python / HTML / CSS
   * Framework : Tensorflow / Pytorch
