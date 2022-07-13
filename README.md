@@ -14,7 +14,7 @@
   * 알파코 딥러닝 개발 부트 캠프 2기 (반장)
   
 * **Skill**
-  * Computer engineering Language : Python
+  * Programming Language : Python / HTML
   * Framework : Tensorflow / Pytorch
 
 * **Interest**
