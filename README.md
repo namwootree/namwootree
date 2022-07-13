@@ -41,6 +41,12 @@ Pneumonia Detection | 2022.05 | Alphaco | YOLO V3 • V4 | [Pneumonia_Detection]
 Laundry Detergent Review Data Analysis | 2022.05 | Alphaco | Ensemble, Crawling | [Coupang Laundry Detergent Review Analysis](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Coupang%20Laundry%20Detergent%20Review%20Analysis)
 Best Seller Data Analysis | 2022.04 | Alphaco | RandomForest, Crawling, EDA | [Aladin_Best_Seller_Data_Analysis](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Aladin_Best_Seller_Data_Analysis)
 
+# Basic Skill
+Skill | Link | etc 
+|--------|--------|------|
+Pytorch | [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) |
+NLP | [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) |
+HTML | [HTML](https://github.com/namwootree/Basic_Skill/tree/main/HTML) | [Github Page](https://namwootree.github.io/practice_HTML/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namwootree&show_icons=true&theme=dark)
 
