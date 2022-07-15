@@ -57,7 +57,7 @@ Algorithm | [Algorithm](https://github.com/namwootree/Algorithm_study) |
 Pytorch | [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) |
 NLP | [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) |
 HTML / CSS | [Front End](https://github.com/namwootree/practice_Frontend) | [Github Page](https://namwootree.github.io/practice_Frontend/)
-Web Crawling | [Weeb Crawling](https://github.com/namwootree/Basic_Skill/tree/main/Web_Crawling)|
+Web Crawling | [Web Crawling](https://github.com/namwootree/Basic_Skill/tree/main/Web_Crawling)|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namwootree&show_icons=true&theme=dark)
 
