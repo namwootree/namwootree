@@ -1,31 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=170&section=header&text=Namwoo%20Github&fontSize=100&fontAlignY=40&desc=NLP%20Engineer%20/%20Financial%20Data%20Scientist&descSize=30&descAlignY=78)
 
 # Profile
-* **Name** : 권남우
+* ### Name : 권남우
 
-* **E-mail** : namwootree4work@naver.com
+* ### E-mail  : namwootree4work@naver.com
 
-* **Level of Education** : 울산대학교 학사
+* ### Level of Education : 울산대학교 학사
   * 글로벌경영학과 졸업 (4.07/4.5)
   * 마이크로특화전공 이수 : 공공·복지경영기초
   
-* **Award**
+* ### Award
   * [(재)울산발전연구원] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11)
 
   
-* **Experiences**
+* ### Experiences
   * [체험형 인턴] 한국석유공사 기획예산처 (2020.06.29 4주)
   * DSAC (Data Scientist Academy & Certificate) 수료
   * 알파코 딥러닝 개발 부트 캠프 2기 (반장)
   
-* **Tech Stack**
+* ### Tech Stack
 
   * Platforms & Languages <br><br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><br><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"><br> 
   
   * Tools <br><br><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"><br><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"><br><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 
-* **Interest**
+* ### Interest
   * NLP (Natural Language Processing)
     * Text Summarization
     * Chatbot
@@ -35,7 +35,7 @@
     * Time Series
  
 
-* **Baekjoon Algorithm**<br><br>
+* ### Baekjoon Algorithm<br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namwootree)](https://solved.ac/namwootree)<br/>
 
 
