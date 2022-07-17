@@ -26,11 +26,11 @@
 
 
 * ### Interest
-  * NLP (Natural Language Processing)
+  * **NLP (Natural Language Processing)**
     * Text Summarization
     * Chatbot
     
-  * Data Analysis
+  * **Data Analysis**
     * Finance
     * Time Series
  
