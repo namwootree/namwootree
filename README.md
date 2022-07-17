@@ -53,11 +53,11 @@ Best Seller Data Analysis | 2022.04 | Alphaco | RandomForest, Crawling, EDA | [A
 # Be Skillfull
 Skill | Link | etc 
 |--------|--------|------|
-Algorithm | [Algorithm](https://github.com/namwootree/Algorithm_study) | 
+Algorithm | [Algorithm](https://github.com/namwootree/Algorithm_study) | [Baek joon](https://solved.ac/class) |
 Pytorch | [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) |
 NLP | [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) |
 HTML / CSS | [Front End](https://github.com/namwootree/practice_Frontend) | [Github Page](https://namwootree.github.io/practice_Frontend/)
-Hugging Face | [Hugging Face](https://github.com/namwootree/Basic_Skill/tree/main/Hugging-Face) | [Web Site Link](https://huggingface.co/) |
+Hugging Face | [Hugging Face](https://github.com/namwootree/Basic_Skill/tree/main/Hugging-Face) | [Docs](https://huggingface.co/docs/transformers/index) |
 Web Crawling | [Web Crawling](https://github.com/namwootree/Basic_Skill/tree/main/Web_Crawling)|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namwootree&show_icons=true&theme=dark)
