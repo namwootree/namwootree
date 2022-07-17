@@ -35,9 +35,8 @@
     * Time Series
  
 
-* **Baekjoon Algorithm**
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namwootree)](https://solved.ac/namwootree)<br/>
+* **Baekjoon Algorithm**<br><br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namwootree)](https://solved.ac/namwootree)<br/>
 
 
 # Works
