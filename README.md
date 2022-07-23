@@ -42,7 +42,8 @@
 
 * ### Baekjoon Algorithm<br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namwootree)](https://solved.ac/namwootree)<br/>
-
+  
+---
 
 # Works
 
@@ -57,6 +58,8 @@ Mask Detection | 2022.05 | Alphaco | Resnet50, Fine Tuning | [Mask Detection](ht
 Laundry Detergent Review Data Analysis | 2022.05 | Alphaco | Ensemble, Crawling | [Coupang Laundry Detergent Review Analysis](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Coupang%20Laundry%20Detergent%20Review%20Analysis)
 Best Seller Data Analysis | 2022.04 | Alphaco | RandomForest, Crawling, EDA | [Aladin_Best_Seller_Data_Analysis](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Aladin_Best_Seller_Data_Analysis)
 
+---
+
 # Study Log
 Skill | Link | etc 
 |--------|--------|------|
@@ -70,9 +73,13 @@ HTML / CSS | [Front End](https://github.com/namwootree/practice_Frontend) | [Git
 Hugging Face | [Hugging Face](https://github.com/namwootree/Basic_Skill/tree/main/Hugging-Face) | [Docs](https://huggingface.co/docs/transformers/index) |
 Web Crawling | [Web Crawling](https://github.com/namwootree/Basic_Skill/tree/main/Web_Crawling)|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namwootree&layout=compact)](https://github.com/namwootree/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namwootree&layout=compact&theme=dark)](https://github.com/namwootree/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namwootree&show_icons=true&theme=dark)
+
+![Github Graph](https://activity-graph.herokuapp.com/graph?username=namwootree&area=false&theme=react-dark&hide_border=true&custom_title=Namwoo's%20Activity)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=namwootree/namwootree" alt="visitor"/>
