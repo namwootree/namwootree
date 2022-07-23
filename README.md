@@ -61,8 +61,9 @@ Best Seller Data Analysis | 2022.04 | Alphaco | RandomForest, Crawling, EDA | [A
 Skill | Link | etc 
 |--------|--------|------|
 Algorithm | [Algorithm](https://github.com/namwootree/Algorithm_study) | [Baek joon](https://solved.ac/class) |
-Pytorch | [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) |
 NLP | [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) |
+Time Series | [Time Series](https://github.com/namwootree/Basic_Skill/tree/main/Time_Series) |
+Pytorch | [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) |
 MySQL | [MySQL](https://github.com/namwootree/Basic_Skill/tree/main/MySQL) |
 Flask | [Flask](https://github.com/namwootree/Basic_Skill/tree/main/Flask) |
 HTML / CSS | [Front End](https://github.com/namwootree/practice_Frontend) | [Github Page](https://namwootree.github.io/practice_Frontend/)
