@@ -6,6 +6,7 @@
 * ### Contact 
   <a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
   <a href="https://www.instagram.com/__nw_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="https://velog.io/@namwootree"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 
 * ### Level of Education : 울산대학교 학사
   * 글로벌경영학과 졸업 (4.07/4.5)
