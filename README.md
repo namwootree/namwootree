@@ -63,6 +63,7 @@ Best Seller Data Analysis | 2022.04 | Alphaco | RandomForest, Crawling, EDA | [A
 # Study Log
 Skill | Link | etc 
 |--------|--------|------|
+R | [R](https://github.com/namwootree/Basic_Skill/tree/main/R) | 
 Algorithm | [Algorithm](https://github.com/namwootree/Algorithm_study) | [Baek joon](https://solved.ac/class) |
 NLP | [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) |
 Time Series | [Time Series](https://github.com/namwootree/Basic_Skill/tree/main/Time_Series) | [Velog](https://velog.io/@namwootree/series/%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D)
