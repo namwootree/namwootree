@@ -38,10 +38,6 @@
   * **Data Analysis**
     * Finance
     * Time Series
- 
-
-* ### Baekjoon Algorithm<br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=namwootree)](https://solved.ac/namwootree)<br/>
   
 ---
 
@@ -68,6 +64,7 @@ MySQL | [MySQL](https://github.com/namwootree/Basic_Skill/tree/main/MySQL) |
 Algorithm | [Algorithm](https://github.com/namwootree/Algorithm_study) | [Baek joon](https://solved.ac/class) |
 NLP | [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) |
 Time Series | [Time Series](https://github.com/namwootree/Basic_Skill/tree/main/Time_Series) | [Velog](https://velog.io/@namwootree/series/%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%B6%84%EC%84%9D)
+Audio | [Audio](https://github.com/namwootree/Basic_Skill/tree/main/Audio) | 
 Pytorch | [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) |
 Flask | [Flask](https://github.com/namwootree/Basic_Skill/tree/main/Flask) |
 HTML / CSS | [Front End](https://github.com/namwootree/practice_Frontend) | [Github Page](https://namwootree.github.io/practice_Frontend/)
