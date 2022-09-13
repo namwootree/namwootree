@@ -78,8 +78,6 @@ Web Crawling | [Web Crawling](https://github.com/namwootree/Basic_Skill/tree/mai
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namwootree&show_icons=true&theme=dark)
 
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=namwootree&area=false&theme=react-dark&hide_border=true&custom_title=Namwoo's%20Activity)
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=namwootree/namwootree" alt="visitor"/>
 </p>
