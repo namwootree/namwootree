@@ -9,7 +9,7 @@
   <a href="https://velog.io/@namwootree"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 
 * ### Level of Education
-  * UNIST 융합경영대학원 비즈니스 분석 재학 
+  * UNIST 융합경영대학원 비즈니스 분석  재학 
   * 울산대학교 경영대학 글로벌경영학과 졸업 (4.07/4.5)
   * 울산대학교 마이크로특화전공 이수 : 공공·복지경영기초
   
