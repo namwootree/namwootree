@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=75BDE0&height=170&section=header&text=Namwoo%20Github&fontSize=100&fontAlignY=40&desc=Junior%20Financial%20Data%20Scientist&descSize=30&descAlignY=78)
 
-# Profile
-* ### Name : 권남우
+# Profile 
+* ### Name : 권남우 (Namwoo Kwon)
 
 * ### Contact 
   <a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
@@ -29,17 +29,6 @@
   * **Platforms & Languages** <br><br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   
   * **Tools** <br><br><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"><br><img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"><br><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-
-
-* ### Interest
-    
-  * **Data Analysis**
-    * Finance
-    * Time Series
-    
-  * **NLP (Natural Language Processing)**
-    * Text Summarization
-    * Chatbot
   
 ---
 
