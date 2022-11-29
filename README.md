@@ -34,18 +34,14 @@
 
 # Works
 
-Project  | Date | Execution Organization | Skill | Link
----------------------------|------|-------|-----------------|---------------------|
-[Kaggle] Scrabble Player Rating | 2022.11 | Personal Team | LGBM, Optuna | [Rating Regression](https://github.com/namwootree/Portfolio/tree/main/Competition/Kaggle/Scrabble%20Player%20Rating)
-[Dacon] JeJu Traffic | 2022.10 | Personal Team | Catboost, Optuna, Stacking Ensemble | [Traffic Regression](https://github.com/namwootree/Portfolio/tree/main/Competition/Dacon/JeJu_Traffic)
-Poly Encoder Chatbot | 2022.07 | Alphaco | Poly Encoder | [Retrieval-Based-Chatbot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Retrieval-Based-Chatbot-main)
-Text Summarization | 2022.06 | Alphaco | Modeling, Data Augmentation | [Text_Summarization](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Summarization)
-Text Classification | 2022.06 | Alphaco | Ensemble, Data Augmentation | [Text_Classification](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Classification)
-Chatbot | 2022.06 | Alphaco | Transformer, BERT | [Chat_Bot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Chat_Bot)
-Pneumonia Detection | 2022.05 | Alphaco | YOLO V3 • V4 | [Pneumonia_Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Pneumonia_Detection)
-Mask Detection | 2022.05 | Alphaco | Resnet50, Fine Tuning | [Mask Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Mask_Detection)
-Laundry Detergent Review Data Analysis | 2022.05 | Alphaco | Ensemble, Crawling | [Coupang Laundry Detergent Review Analysis](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Coupang%20Laundry%20Detergent%20Review%20Analysis)
-Best Seller Data Analysis | 2022.04 | Alphaco | RandomForest, Crawling, EDA | [Aladin_Best_Seller_Data_Analysis](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Aladin_Best_Seller_Data_Analysis)
+## 2022
+Project  | Date | Skill | Project  | Date | Skill | 
+---------|------|-------|----------|------|-------|
+[[Kaggle] Scrabble Player Rating](https://github.com/namwootree/Portfolio/tree/main/Competition/Kaggle/Scrabble%20Player%20Rating) | Nov | LGBM, Optuna |[Chatbot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Chat_Bot) | Jun | Transformer, BERT| |
+[[Dacon] JeJu Traffic](https://github.com/namwootree/Portfolio/tree/main/Competition/Dacon/JeJu_Traffic) | Oct | Catboost, Optuna, Stacking Ensemble |[Pneumonia Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Pneumonia_Detection) | May | YOLO V3 • V4|
+[Poly Encoder Chatbot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Retrieval-Based-Chatbot-main) | Jul | Poly Encoder | [Mask Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Mask_Detection)| May | Resnet50, Fine Tuning | 
+[Text Summarization](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Summarization) | Jun | Modeling, Data Augmentation |[Laundry Detergent Review](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Coupang%20Laundry%20Detergent%20Review%20Analysis) | May | Ensemble, Crawling |
+[Text Classification](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Classification) | Jun | Ensemble, Data Augmentatio | [Best Seller](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Aladin_Best_Seller_Data_Analysis) | Apr |  RandomForest, Crawling, EDA |
 
 ---
 
