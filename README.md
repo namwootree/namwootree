@@ -52,6 +52,7 @@ Best Seller Data Analysis | 2022.04 | Alphaco | RandomForest, Crawling, EDA | [A
 # Study Log
 Skill | Link | etc 
 |--------|--------|------|
+Quant | [Quant](https://github.com/namwootree/Basic_Skill/tree/main/R) | 
 R | [R](https://github.com/namwootree/Basic_Skill/tree/main/R) | 
 MySQL | [MySQL](https://github.com/namwootree/Basic_Skill/tree/main/MySQL) |
 Algorithm | [Algorithm](https://github.com/namwootree/Algorithm_study) | [Baek joon](https://solved.ac/class) |
