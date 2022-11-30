@@ -26,10 +26,19 @@
 
   * **Languages & Framework** <br><br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   
-  * **Tools** <br><br><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"><br><img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"><br><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+  * **IDE & Tools** <br><br><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"><br><img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"><br><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   
 ---
 
+# Study Log
+Skill | Content |
+|-----|---------|
+Steck | [R](https://github.com/namwootree/Basic_Skill/tree/main/R) / [MySQL](https://github.com/namwootree/Basic_Skill/tree/main/MySQL) / [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) / [Hugging Face](https://github.com/namwootree/Basic_Skill/tree/main/Hugging-Face) / [Flask](https://github.com/namwootree/Basic_Skill/tree/main/Flask) / [HTML & CSS ](https://github.com/namwootree/practice_Frontend)
+Domain | [Quant](https://github.com/namwootree/Quant_Study_Log) / [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) / [Time Series](https://github.com/namwootree/Basic_Skill/tree/main/Time_Series) / [Audio](https://github.com/namwootree/Basic_Skill/tree/main/Audio) / 
+etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling](https://github.com/namwootree/Basic_Skill/tree/main/Web_Crawling)
+
+---   
+ 
 # Works
 
 ## 2022
@@ -40,12 +49,3 @@ Project  | Date | Skill | Project  | Date | Skill |
 [Poly Encoder Chatbot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Retrieval-Based-Chatbot-main) | Jul | Poly Encoder | [Mask Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Mask_Detection)| May | Resnet50, Fine Tuning | 
 [Text Summarization](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Summarization) | Jun | KoBART, Easy Data Augmentation(EDA) |[Laundry Detergent Review](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Coupang%20Laundry%20Detergent%20Review%20Analysis) | May | Logistic, XGB, RandomForest, Crawling |
 [Text Classification](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Classification) | Jun | BERT, ROBERT, Back Translation | [Best Seller](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Aladin_Best_Seller_Data_Analysis) | Apr |  RandomForest, Crawling, EDA |
-
----
-
-# Study Log
-Skill | Content |
-|-----|---------|
-Steck | [R](https://github.com/namwootree/Basic_Skill/tree/main/R) / [MySQL](https://github.com/namwootree/Basic_Skill/tree/main/MySQL) / [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) / [Hugging Face](https://github.com/namwootree/Basic_Skill/tree/main/Hugging-Face) / [Flask](https://github.com/namwootree/Basic_Skill/tree/main/Flask) / [HTML & CSS ](https://github.com/namwootree/practice_Frontend)
-Domain | [Quant](https://github.com/namwootree/Quant_Study_Log) / [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) / [Time Series](https://github.com/namwootree/Basic_Skill/tree/main/Time_Series) / [Audio](https://github.com/namwootree/Basic_Skill/tree/main/Audio) / 
-etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling](https://github.com/namwootree/Basic_Skill/tree/main/Web_Crawling)
