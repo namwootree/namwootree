@@ -41,6 +41,11 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
  
 # Works
 
+## 2023
+Project  | Month | Skill | Project  | Month | Skill | 
+---------|------|-------|----------|------|-------|
+|[DACON] Breakdown in Machine(https://github.com/namwootree/Breakdown-in-Machine) |Jan||
+
 ## 2022
 Project  | Month | Skill | Project  | Month | Skill | 
 ---------|------|-------|----------|------|-------|
