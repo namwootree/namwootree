@@ -33,9 +33,9 @@
 # Study Log
 Skill | Content |
 |-----|---------|
-Steck | [Unsupervised Learning](https://github.com/namwootree/Basic_Skill/tree/main/Unsupervised%20Learning) / [R](https://github.com/namwootree/Basic_Skill/tree/main/R) / [MySQL](https://github.com/namwootree/Basic_Skill/tree/main/MySQL) / [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) / [Hugging Face](https://github.com/namwootree/Basic_Skill/tree/main/Hugging-Face) / [Flask](https://github.com/namwootree/Basic_Skill/tree/main/Flask) / [HTML & CSS ](https://github.com/namwootree/practice_Frontend)
+Steck | [R](https://github.com/namwootree/Basic_Skill/tree/main/R) / [MySQL](https://github.com/namwootree/Basic_Skill/tree/main/MySQL) / [Pytorch](https://github.com/namwootree/Basic_Skill/tree/main/PyTorch) / [Hugging Face](https://github.com/namwootree/Basic_Skill/tree/main/Hugging-Face) / [Flask](https://github.com/namwootree/Basic_Skill/tree/main/Flask) / [HTML & CSS ](https://github.com/namwootree/practice_Frontend)
 Domain | [Quant](https://github.com/namwootree/Quant_Study_Log) / [NLP](https://github.com/namwootree/Basic_Skill/tree/main/NLP) / [Time Series](https://github.com/namwootree/Basic_Skill/tree/main/Time_Series) / [Audio](https://github.com/namwootree/Basic_Skill/tree/main/Audio) 
-etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling](https://github.com/namwootree/Basic_Skill/tree/main/Web_Crawling)
+etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling](https://github.com/namwootree/Basic_Skill/tree/main/Web_Crawling) / [Unsupervised Learning](https://github.com/namwootree/Basic_Skill/tree/main/Unsupervised%20Learning)
 
 ---   
  
