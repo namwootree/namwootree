@@ -2,9 +2,9 @@
 * ### Name : 권남우 (Namwoo Kwon)
 
 * ### Contact 
-  <a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-  <a href="https://www.instagram.com/__nw_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-  <a href="https://velog.io/@namwootree"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  <a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white">
+  <a href="https://www.instagram.com/__nw_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+  <a href="https://velog.io/@namwootree"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
 
 * ### Level of Education
   * UNIST 융합경영대학원 비즈니스 분석  재학 
