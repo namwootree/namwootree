@@ -43,12 +43,12 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
 
 ## 2023
 Project  | Month | Skill | Project  | Month | Skill | 
-|--------|-------|-------|----------|-------|-------|
-||||[[DACON] Breakdown in Machine](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa|
+|--------|:-------:|-------|----------|:-------:|-------|
+||||[[DACON] Breakdown in Machine <br> (Anomaly Detection)](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa|
 
 ## 2022
 Project  | Month | Skill | Project  | Month | Skill | 
----------|------|-------|----------|------|-------|
+---------|:------:|-------|----------|:------:|-------|
 [[Kaggle] Scrabble Player Rating](https://github.com/namwootree/Portfolio/tree/main/Competition/Kaggle/Scrabble%20Player%20Rating) | Dec | LGBM, Optuna, GroupKFold |[Chat Bot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Chat_Bot) | Jun | Transformer, BERT| |
 [[Dacon] JeJu Traffic](https://github.com/namwootree/Portfolio/tree/main/Competition/Dacon/JeJu_Traffic) | Oct | Catboost, Optuna, Stacking Ensemble |[Pneumonia Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Pneumonia_Detection) | May | YOLO V3 • V4|
 [Chat Bot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Retrieval-Based-Chatbot-main) | Jul | Poly Encoder | [Mask Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Mask_Detection)| May | Resnet50, Fine Tuning | 
