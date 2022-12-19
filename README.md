@@ -45,7 +45,7 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
 ## 2023
 Project  | Month | Skill | Project  | Month | Skill | 
 |--------|:-------:|-------|----------|:-------:|-------|
-||||[[DACON] Breakdown in Machine <br> (Anomaly Detection)](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa|
+||||[[DACON] Breakdown in Machine <br> (Anomaly Detection in Audio)](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa|
 
 ## 2022
 Project  | Month | Skill | Project  | Month | Skill | 
