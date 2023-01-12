@@ -1,5 +1,4 @@
 # Profile 
-* ### Name : 권남우 (Namwoo Kwon)
 
 * ### Contact 
   <a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white">
@@ -12,12 +11,13 @@
   * 울산대학교 경영대학 글로벌경영학과 졸업 (4.07/4.5)
   * 울산대학교 마이크로특화전공 이수 : 공공·복지경영기초
   
-* ### Award & Scholarship
-  * [(재)울산발전연구원] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
+* ### Schlarship
   * [(재)정수장학회] 정수장학회장학 (2017년 2학년 1힉기 ~ 2021년 4학년 2학기)
   * [울산대학교] 성적우수역량강화장학 (2016년 1학년 2학기)
-
-  
+      
+* ### Award
+  * [(재)울산발전연구원] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
+        
 * ### Experiences
   * [반장, 우수 교육생] 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
   * DSAC 전문교육훈련과정 수료 (2021.09.13 ~ 2021.10.08)
