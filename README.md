@@ -6,7 +6,7 @@
 * ## Main Field of Study 
   * Financial Data 
   
-  * Anomaly Detection
+  * Anomaly Detection in Finance
   
   * Management Credit & Risk of Asset
 
