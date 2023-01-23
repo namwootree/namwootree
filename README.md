@@ -1,17 +1,14 @@
 # Profile 
-
+<a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white">
+  <a href="https://www.instagram.com/__nw_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+  <a href="https://velog.io/@namwootree"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
+  <a href="https://www.notion.so/namwootree/3a69ce1fe43049fab244cb9ccaa0ab6f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 * ## Main Field of Study 
   * Financial Data 
   
   * Anomaly Detection
   
   * Management Credit & Risk of Asset
-
-* ## Contact Me (Click) 
-  <a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white">
-  <a href="https://www.instagram.com/__nw_o/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-  <a href="https://velog.io/@namwootree"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
-    <a href="https://www.notion.so/namwootree/3a69ce1fe43049fab244cb9ccaa0ab6f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
 * ## Level of Education
   * [UNIST] Master's Course of Business Analysis (2023.02 ~)
