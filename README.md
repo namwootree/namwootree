@@ -3,7 +3,7 @@
 * ## Main Field of Study 
   * Financial Data
   * Anomaly Detection
-  * Credit & Risk of Asset
+  * Management Credit & Risk of Asset
 
 * ## Contact (Click) 
   <a href="mailto:namwootree4work@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat-square&logo=Naver&logoColor=white">
