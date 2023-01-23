@@ -1,6 +1,6 @@
 # Profile 
 
-* ## Main Field of Study 📝
+* ## Main Field of Study 
   * Financial Data
   * Anomaly Detection
   * Credit & Risk of Asset
