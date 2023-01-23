@@ -20,7 +20,7 @@
 * ## Scholarship
   * [[(재) Chungsoo Scholarship Foundation](http://www.chungo.or.kr/xe/)] 정수장학회장학 (Sophomore ~ Senior)
       
-  * [Ulsan of University] 성적우수역량강화장학 (Freshman - second semester)
+  * [Ulsan of University] 성적우수역량강화장학 (Freshman - Second Semester)
       
 * ## Award
   * [[(재) Ulsan Research Institute](https://www.uri.re.kr/)] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
