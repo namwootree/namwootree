@@ -14,19 +14,19 @@
     <a href="https://www.notion.so/namwootree/3a69ce1fe43049fab244cb9ccaa0ab6f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
 * ## Level of Education
-  * UNIST 융합경영대학원 비즈니스 분석  재학 
+  * [UNIST] Master's Course of Business Analysis (2023.02 ~)
       
-  * 울산대학교 경영대학 글로벌경영학과 졸업 (4.07/4.5)
+  * [Ulsan of University] Bachelor of Business Administration in Management (4.07/4.5)
       
-  * 울산대학교 마이크로특화전공 이수 : 공공·복지경영기초
-  
+  * [Ulsan of University] micro-specialized-major : Basic of Public • Welfare Business Administration
+
 * ## Scholarship
-  * [(재)정수장학회] 정수장학회장학 (2017년 2학년 1힉기 ~ 2021년 4학년 2학기)
+  * [[(재) Chungsoo Scholarship Foundation](http://www.chungo.or.kr/xe/)] 정수장학회장학 (2017년 2학년 1힉기 ~ 2021년 4학년 2학기)
       
-  * [울산대학교] 성적우수역량강화장학 (2016년 1학년 2학기)
+  * [Ulsan of University] 성적우수역량강화장학 (2016년 1학년 2학기)
       
 * ## Award
-  * [(재)울산발전연구원] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
+  * [[(재)Ulsan Research Institute](https://www.uri.re.kr/)] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
         
 * ## Experiences
   * [반장, 우수 교육생] 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
@@ -55,6 +55,8 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
 ---   
  
 # Works
+     
+* If you want my excellent works, Please check pinned repositories
 
 ## 2023
 Project  | Month | Skill | Project  | Month | Skill | 
