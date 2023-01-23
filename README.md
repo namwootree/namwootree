@@ -23,7 +23,7 @@
   * [Ulsan of University] 성적우수역량강화장학 (Freshman - second semester)
       
 * ## Award
-  * [[(재)Ulsan Research Institute](https://www.uri.re.kr/)] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
+  * [[(재) Ulsan Research Institute](https://www.uri.re.kr/)] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
         
 * ## Experiences
   * [반장, 우수 교육생] 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
