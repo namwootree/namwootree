@@ -18,7 +18,7 @@
   * [Ulsan of University] micro-specialized-major : Basic of Public • Welfare Business Administration
 
 * ## Scholarship
-  * [[(재) Chungsoo Scholarship Foundation](http://www.chungo.or.kr/xe/)] 정수장학회장학 (sophomore ~ Senior)
+  * [[(재) Chungsoo Scholarship Foundation](http://www.chungo.or.kr/xe/)] 정수장학회장학 (Sophomore ~ Senior)
       
   * [Ulsan of University] 성적우수역량강화장학 (Freshman - second semester)
       
