@@ -56,7 +56,7 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
  
 # Works
      
-* If you want my excellent works, Please check pinned repositories
+* If you want **My Significant Works**, Please check pinned repositories
 
 ## 2023
 Project  | Month | Skill | Project  | Month | Skill | 
