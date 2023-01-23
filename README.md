@@ -21,9 +21,9 @@
   * [Ulsan of University] micro-specialized-major : Basic of Public • Welfare Business Administration
 
 * ## Scholarship
-  * [[(재) Chungsoo Scholarship Foundation](http://www.chungo.or.kr/xe/)] 정수장학회장학 (2017년 2학년 1힉기 ~ 2021년 4학년 2학기)
+  * [[(재) Chungsoo Scholarship Foundation](http://www.chungo.or.kr/xe/)] 정수장학회장학 (sophomore ~ Senior)
       
-  * [Ulsan of University] 성적우수역량강화장학 (2016년 1학년 2학기)
+  * [Ulsan of University] 성적우수역량강화장학 (Freshman - second semester)
       
 * ## Award
   * [[(재)Ulsan Research Institute](https://www.uri.re.kr/)] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
