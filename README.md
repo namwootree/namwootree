@@ -12,11 +12,11 @@
   * Management Credit of Client & Risk of Asset
 
 * ## Level of Education
-  * [UNIST] Master's Course of Business Analysis (2023.02 ~)
+  * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis (2023.02 ~)
       
-  * [Ulsan of University] Bachelor of Business Administration in Management (4.07/4.5)
+  * [[Ulsan of University](https://mgmt.ulsan.ac.kr/mgmt/2599)] Bachelor of Business Administration in Management (GPA : 4.07/4.5)
       
-  * [Ulsan of University] micro-specialized-major : Basic of Public • Welfare Business Administration
+  * [[Ulsan of University](http://iie.ulsan.ac.kr/sub/info.do?m=0202&s=iie)] micro-specialized-major : Basic of Public • Welfare Business Administration
 
 * ## Scholarship
   * [[(재) Chungsoo Scholarship Foundation](http://www.chungo.or.kr/xe/)] 정수장학회장학 (Sophomore ~ Senior)
