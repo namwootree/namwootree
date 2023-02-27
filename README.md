@@ -59,8 +59,7 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
 ## 2023
 Project  | Month | Skill | Project  | Month | Skill | 
 |--------|:-------:|-------|----------|:-------:|-------|
-|||| [[DACON] 4th DACrew supporters <br> (Anomaly Detection in Credit Card)](https://github.com/namwootree/Dacrew-4th) |Feb|pyod, Isolate-Forest, Elliptic-Envelope, Auto-Encoder, Sparse-PCA, Sparse-Random-Projection, Fast-ICA||
-||||[[DACON] Breakdown in Machine <br> (Anomaly Detection in Audio)](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa, SparsePCA, RobustScaler, LOF|
+|[[DACON] 4th DACrew supporters <br> (Anomaly Detection in Credit Card)](https://github.com/namwootree/Dacrew-4th)|Feb|pyod, Isolate-Forest, Elliptic-Envelope, Auto-Encoder, Sparse-PCA, Sparse-Random-Projection, Fast-ICA|[[DACON] Breakdown in Machine <br> (Anomaly Detection in Audio)](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa, SparsePCA, RobustScaler, LOF|
 
 ## 2022
 Project  | Month | Skill | Project  | Month | Skill | 
