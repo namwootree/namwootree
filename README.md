@@ -9,7 +9,7 @@
   
   * Anomaly Detection in Finance 
   
-  * Management Credit of Client & Risk of Asset
+  * Management investment portfolio
 
 * ## Level of Education
   * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis (2023.02 ~)
