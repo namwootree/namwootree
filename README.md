@@ -1,8 +1,6 @@
 # Profile 
-<a href="mailto:namwootree@unist.ac.kr"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white">
+<a href="mailto:namwootree@unist.ac.kr"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square">
 <a href="https://www.instagram.com/namxaiwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-<a href="https://velog.io/@namwootree"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
-<a href="https://namwoo-kwon.notion.site/Study-57b15465b9114a7f94872635d0b074b5"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
     
 * ## Main Field of Study 
   * Analysis of Financial Data 
