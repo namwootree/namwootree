@@ -1,4 +1,4 @@
-# Profile 
+# CV
 <a href="mailto:namwootree@unist.ac.kr"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square">
 <a href="https://www.instagram.com/namxaiwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
     
