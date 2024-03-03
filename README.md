@@ -17,7 +17,7 @@
   * [[Ulsan of University](http://iie.ulsan.ac.kr/sub/info.do?m=0202&s=iie)] micro-specialized-major : Basic of Public • Welfare Business Administration
 
 * ## Scholarship
-  * [UNIST] 융합경영대학원장학금
+  * [UNIST] 융합경영대학원장학금 (2023-1, 2023-2)
     
   * [[(재) Chungsoo Scholarship Foundation](http://www.chungo.or.kr/xe/)] 정수장학회장학 (Sophomore ~ Senior)
       
