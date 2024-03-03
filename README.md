@@ -66,7 +66,7 @@ Project  | Month | Skill |
 ## 2023
 Project  | Month | Skill |
 |--------|:-------:|-------|
-|[[UNIST] Halloween Effect in KOSPI 200 <br> (Time Series Analysis in KOSPI 200)](https://github.com/namwootree/Halloween-Effect)|Dec|Normality Test, t-Test, Linear Regression Analysis|
+|[[UNIST] Halloween Effect in KOSPI 200 <br> (Time Series Analysis in KOSPI 200)](https://github.com/namwootree/Halloween-Effect)|Dec|Normality Test, Unit-root Test, t-Test, Linear Regression Analysis|
 |[[AICP] Portfolio Strategy Development using Neural Networks <br> (Momentum Portfolio with Neural Networks)](https://github.com/namwootree/UNIST_AICP)|Apr ~ Dec|PCA, Local-Outlier-Factor, Isolation-Forest, Auto-Encoder, VAE, Deep-SVDD|
 |[[DACON] 4th DACrew supporters <br> (Anomaly Detection in Credit Card)](https://github.com/namwootree/Dacrew-4th)|Feb|pyod, Isolate-Forest, Elliptic-Envelope, Auto-Encoder, Sparse-PCA, Sparse-Random-Projection, Fast-ICA
 |[[DACON] Breakdown in Machine <br> (Anomaly Detection in Audio)](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa, SparsePCA, RobustScaler, LOF|
