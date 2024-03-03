@@ -12,7 +12,7 @@
 * ## Level of Education
   * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis (2023.02 ~)
       
-  * [Ulsan of University](https://mgmt.ulsan.ac.kr/mgmt/2599)] Bachelor of Business Administration in Management (GPA : 4.07/4.5)
+  * [[Ulsan of University](https://mgmt.ulsan.ac.kr/mgmt/2599)] Bachelor of Business Administration in Management (GPA : 4.07/4.5)
       
   * [[Ulsan of University](http://iie.ulsan.ac.kr/sub/info.do?m=0202&s=iie)] micro-specialized-major : Basic of Public • Welfare Business Administration
 
@@ -66,7 +66,7 @@ Project  | Month | Skill |
 ## 2023
 Project  | Month | Skill |
 |--------|:-------:|-------|
-|[[UNIST] Halloween Effect in KOSPI 200 <br> (Time Series Analysis in KOSPI 200)|Dec|Normality Test, t-Test, Linear Regression Analysis|
+|[[UNIST]] Halloween Effect in KOSPI 200 <br> (Time Series Analysis in KOSPI 200)|Dec|Normality Test, t-Test, Linear Regression Analysis|
 |[[AICP] Portfolio Strategy Development using Neural Networks <br> (Momentum Portfolio with Neural Networks)](https://github.com/namwootree/UNIST_AICP)|Apr ~ Dec|PCA, Local-Outlier-Factor, Isolation-Forest, Auto-Encoder, VAE, Deep-SVDD|
 |[[DACON] 4th DACrew supporters <br> (Anomaly Detection in Credit Card)](https://github.com/namwootree/Dacrew-4th)|Feb|pyod, Isolate-Forest, Elliptic-Envelope, Auto-Encoder, Sparse-PCA, Sparse-Random-Projection, Fast-ICA
 |[[DACON] Breakdown in Machine <br> (Anomaly Detection in Audio)](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa, SparsePCA, RobustScaler, LOF|
