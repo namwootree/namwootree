@@ -58,11 +58,15 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
      
 * ~~If you want **My Significant Works**, Please check pinned repositories~~
 
+## 2024
+Project  | Month | Skill |
+|--------|:-------:|-------|
+|[[DACON] AI hackathon on customer loan grading <br> (Classification in Loan Grade)](https://github.com/namwootree/Classification-Loan-Grade) |Jan|XGBoost|
+
 ## 2023
 Project  | Month | Skill |
 |--------|:-------:|-------|
-|[Data-to-Text Generation in Finance Dataset](https://github.com/namwootree/Data-to-Text_Generation_in_Finance_Dataset) <br> (Financial Report Document Generation)|Sep ~ Dec|Data-to-Text Generation with Variational Sequential Planning |
-|[[AICP] Portfolio Strategy Development using Neural Networks <br> (Momentum Portfolio with Neural Networks)](https://github.com/namwootree/UNIST_AICP)|Apr ~ Dec||
+|[[AICP] Portfolio Strategy Development using Neural Networks <br> (Momentum Portfolio with Neural Networks)](https://github.com/namwootree/UNIST_AICP)|Apr ~ Dec|PCA, Local-Outlier-Factor, Isolation-Forest, Auto-Encoder, VAE, Deep-SVDD|
 |[[DACON] 4th DACrew supporters <br> (Anomaly Detection in Credit Card)](https://github.com/namwootree/Dacrew-4th)|Feb|pyod, Isolate-Forest, Elliptic-Envelope, Auto-Encoder, Sparse-PCA, Sparse-Random-Projection, Fast-ICA
 |[[DACON] Breakdown in Machine <br> (Anomaly Detection in Audio)](https://github.com/namwootree/Breakdown-in-Machine) |Jan|librosa, SparsePCA, RobustScaler, LOF|
 
