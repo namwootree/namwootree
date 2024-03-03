@@ -61,7 +61,7 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
 ## 2024
 Project  | Month | Skill |
 |--------|:-------:|-------|
-|[[DACON] AI hackathon on customer loan grading <br> (Classification in Loan Grade)](https://github.com/namwootree/Classification-Loan-Grade) |Jan|XGBoost|
+|[[DACON] AI hackathon on customer loan grading <br> (Classification in Loan Grade)](https://github.com/namwootree/Classification-Loan-Grade) |Jan|XGBoost, Derived Variable|
 
 ## 2023
 Project  | Month | Skill |
