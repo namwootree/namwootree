@@ -3,11 +3,9 @@
 <a href="https://www.instagram.com/namxaiwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
     
 * ## Main Field of Study 
-  * Analysis of Financial Data 
+  * Patent Landscape Analysis
   
-  * Anomaly Detection in Finance 
-  
-  * Management investment portfolio
+  * Management Patent Portfolio
 
 * ## Level of Education
   * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis (2023.02 ~)
@@ -27,6 +25,8 @@
   * [[(재) Ulsan Research Institute](https://www.uri.re.kr/)] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
         
 * ## Experiences
+  * [UNIST] AICP: API, 웹 스크래핑, ChatGPT를 활용한 기업 성과분석석 (2024.04.01 ~ 2024.11.15)
+  
   * [UNIST] AICP: 신경망 모형을 활용한 투자 포트폴리오 개발 (2023.04.01 ~ 2023.12.31)
     
   * [반장, 우수 교육생] 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
