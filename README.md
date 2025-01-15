@@ -81,12 +81,6 @@ Project  | Month | Skill | Project  | Month | Skill |
 [Text Classification](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Classification) | Jun | BERT, ROBERT, Back Translation | [Best Seller](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Aladin_Best_Seller_Data_Analysis) | Apr |  RandomForest, Crawling, EDA |
 
 ---
- 
-# My goal in studying
-<br>
-<div align="center">
-<img width="579" alt="스크린샷 2023-02-27 01 02 01" src="https://user-images.githubusercontent.com/91008734/221422066-f5468c5f-0482-41ef-8c5a-8b7c6fa91048.png" width="200" height="700">
-</div>
 
  <br>
 <div align="center">
