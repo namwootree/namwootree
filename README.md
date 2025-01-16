@@ -13,24 +13,6 @@
   * [[Ulsan of University](https://mgmt.ulsan.ac.kr/mgmt/2599)] Bachelor of Business Administration in Management (GPA : 4.07/4.5)
       
   * [[Ulsan of University](http://iie.ulsan.ac.kr/sub/info.do?m=0202&s=iie)] micro-specialized-major : Basic of Public • Welfare Business Administration
-      
-* ## Award
-  * [[(재) Ulsan Research Institute](https://www.uri.re.kr/)] 제12회 대학(원)생 논문 현상 공모전 장려상 (2020.11.10)
-        
-* ## Experiences
-  * [UNIST] AICP: API, 웹 스크래핑, ChatGPT를 활용한 기업 성과분석석 (2024.04.01 ~ 2024.11.15)
-  
-  * [UNIST] AICP: 신경망 모형을 활용한 투자 포트폴리오 개발 (2023.04.01 ~ 2023.12.31)
-    
-  * [반장, 우수 교육생] 알파코 딥러닝 개발 부트 캠프 2기 (2022.03.07 ~ 2022.09.06)
-      
-  * DSAC 전문교육훈련과정 수료 (2021.09.13 ~ 2021.10.08)
-      
-  * [오픈 캠퍼스] 한국산업인력공단 (2021.08.25 ~ 2021.08.31)
-      
-  * [울산대학교 경영대학 경영학부] 시장분석 전문가 양성 산학연계 과정 수료 (2020)
-      
-  * [체험형 인턴] 한국석유공사 기획예산처 (2020.06.29 ~ 2020.07.24)
     
  * ## Tech Stack
 
