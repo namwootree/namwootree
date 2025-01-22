@@ -8,8 +8,6 @@ etc | [Algorithm](https://github.com/namwootree/Algorithm_study) / [Web Crawling
 ---   
 
 # Works
-     
-* ~~If you want **My Significant Works**, Please check pinned repositories~~
 
 ## 2024
 Project  | Month | Skill |
