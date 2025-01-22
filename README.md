@@ -5,8 +5,8 @@
     
 * ## Research Interest
   * **Patent Landscape Analysis**
-    - Defining patent portfolio and investigating the potential for identifying suitable patents to drive innovation.
-    - Supporting decision-making in research planning.
+    - Defining a patent portfolio and investigating its potential to identify suitable patents that can drive innovation.
+    - Supporting decision-making processes in research planning by providing data-driven insights.
   
   * **Forcasting Technological Opportunity**
     - Exploring the applicability of patents across different fields and their potential for integration with other technologies.
