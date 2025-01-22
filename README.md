@@ -18,13 +18,17 @@
    
   * **Enhancing patent data quality for advanced analysis.**
 
+<br>
+
 * ## Level of Education
   * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis
       
   * [[Ulsan of University](https://mgmt.ulsan.ac.kr/mgmt/2599)] Bachelor of Business Administration in Management 
       
   * [[Ulsan of University](http://iie.ulsan.ac.kr/sub/info.do?m=0202&s=iie)] micro-specialized-major : Basic of Public • Welfare Business Administration
-    
+
+<br>
+
  * ## Tech Stack
 
     * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> <br> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-squar&logo=TensorFlow&logoColor=white"><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Weights & Biases-FFBE00?style=flat-square&logo=WeightsandBiases&logoColor=white">
