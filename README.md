@@ -15,8 +15,7 @@
   * **Representation of Scientific Documents**
     - Exploring the semantic representation within patents and analyzing inter-patent relationships.
     - Investigating methodologies for matching similar patents.
-   
-  * **Enhancing patent data quality for advanced analysis.**
+
 
 <br>
 
