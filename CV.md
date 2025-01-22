@@ -1,11 +1,7 @@
 # CV
-<a href="mailto:namwoods@unist.ac.kr"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square">
-<a href="https://www.instagram.com/namxaiwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-    
-* ## Main Field of Study 
-  * Patent Landscape Analysis
-  
-  * Management Patent Portfolio
+ <a href="mailto:namwoods@unist.ac.kr"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square"><a href="https://www.instagram.com/namxaiwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+
+---
 
 * ## Level of Education
   * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis (2023.02 ~ 2025.02)
