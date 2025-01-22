@@ -23,8 +23,6 @@
   * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis
       
   * [[Ulsan of University](https://mgmt.ulsan.ac.kr/mgmt/2599)] Bachelor of Business Administration in Management 
-      
-  * [[Ulsan of University](http://iie.ulsan.ac.kr/sub/info.do?m=0202&s=iie)] micro-specialized-major : Basic of Public • Welfare Business Administration
 
 <br>
 
