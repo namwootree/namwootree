@@ -2,11 +2,17 @@
 <a href="https://github.com/namwootree/namwootree/blob/main/CV.md"><img src="https://img.shields.io/badge/CV-506365?style=flat-square&logo=Read.cv"><a href="mailto:namwoods@unist.ac.kr"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square"><a href="https://www.instagram.com/namxaiwoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
     
 * ## Research Interest
-  * Patent Landscape Analysis
+  * **Patent Landscape Analysis**
+    - Defining patent portfolio and investigating the potential for identifying suitable patents to drive innovation.
+    - Uncovering the causal factors of potentially impactful innovations.
   
-  * Forcasting Technological Opportunity
+  * **Forcasting Technological Opportunity**
+    - Exploring the applicability of patents across different fields and their potential for integration with other technologies.
+    - Additionally, identifying the pathways for such innovations.
  
-  * Representation of Scientific Documents
+  * **Representation of Scientific Documents**
+    - Exploring the semantic representation within patents and analyzing inter-patent relationships.
+    - Investigating methodologies for matching similar patents.
 
 * ## Level of Education
   * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis (2023.02 ~ 2025.02)
