@@ -50,10 +50,3 @@ Project  | Month | Skill | Project  | Month | Skill |
 [Chat Bot](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Retrieval-Based-Chatbot-main) | Jul | Poly Encoder | [Mask Detection](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Mask_Detection)| May | Resnet50, Fine Tuning | 
 [Text Summarization](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Summarization) | Jun | KoBART, Easy Data Augmentation(EDA) |[Laundry Detergent Review](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Coupang%20Laundry%20Detergent%20Review%20Analysis) | May | Logistic, XGB, RandomForest, Crawling |
 [Text Classification](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Long-Term%20Program/Text_Classification) | Jun | BERT, ROBERT, Back Translation | [Best Seller](https://github.com/namwootree/Portfolio/tree/main/Alphaco_(Deep_Learning_Boot_Camp)/Mini_Project/Aladin_Best_Seller_Data_Analysis) | Apr |  RandomForest, Crawling, EDA |
-
----
-
- <br>
-<div align="center">
-<a href="https://github.com/namwootree"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&nbsp;Visitor&edge_flat=false)"/></a>
-</div>
