@@ -1,6 +1,7 @@
 # CV
 
 * Name: 권 남 우 (Namwoo Kwon)
+* Job: Researcher (Data Scientist)
 ---
 
 * ## Level of Education
