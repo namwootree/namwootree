@@ -15,6 +15,8 @@
   * **Representation of Scientific Documents**
     - Exploring the semantic representation within patents and analyzing inter-patent relationships.
     - Investigating methodologies for matching similar patents.
+   
+  * **Enhancing patent data quality for advanced analysis.**
 
 * ## Level of Education
   * [[UNIST](https://gsim-kor.unist.ac.kr/bachelor-research/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%B6%84%EC%84%9D/)] Master's Course of Business Analysis
