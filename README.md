@@ -29,10 +29,3 @@
  * ## Tech Stack
 
     * <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> <br> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-squar&logo=TensorFlow&logoColor=white"><br><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/Weights & Biases-FFBE00?style=flat-square&logo=WeightsandBiases&logoColor=white">
-
----
-
- <br>
-<div align="center">
-<a href="https://github.com/namwootree"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&nbsp;Visitor&edge_flat=false)"/></a>
-</div>
